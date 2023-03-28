@@ -15,8 +15,8 @@ Model evaluation.ipynb
 <br/>
 <br/>
 Python code for Regression model:<br/>
-Bulid_and_Evaluation_for_Regression_model_C1.ipynb
-Bulid_and_Evaluation_for_Regression_model_C2.ipynb
-Bulid_and_Evaluation_for_Regression_model_C3.ipynb
-Bulid_and_Evaluation_for_Regression_model_C4.ipynb
-Bulid_and_Evaluation_for_Regression_model_C5.ipynb
+Bulid_and_Evaluation_for_Regression_model_C1.ipynb<br/>
+Bulid_and_Evaluation_for_Regression_model_C2.ipynb<br/>
+Bulid_and_Evaluation_for_Regression_model_C3.ipynb<br/>
+Bulid_and_Evaluation_for_Regression_model_C4.ipynb<br/>
+Bulid_and_Evaluation_for_Regression_model_C5.ipynb<br/>
