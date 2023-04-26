@@ -1,4 +1,4 @@
-The python code for the manuscript on  
+The python code for 
 "Analysis of electrochemical impedance data: Use deep neural networks"
 <br/>
 <br/>
